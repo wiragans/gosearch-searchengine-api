@@ -1,4 +1,4 @@
-# gosearch-searchengine-api
+# gosearch-searchengine-api + Implementasi query boolean pada sistem search
 
 By:
 1. Wira Dwi Susanto (NIM: 17.01.53.0053)
