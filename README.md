@@ -2,6 +2,8 @@
 
 LINK DEMO: https://subtle-torus-235508.web.app/
 
+Contoh Query: https://subtle-torus-235508.web.app/search/unisbank/1
+
 By:
 1. Wira Dwi Susanto (NIM: 17.01.53.0053)
 2. Sativa Wahyu Priyanto (NIM: 17.01.53.0052)
