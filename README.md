@@ -6,6 +6,8 @@ Contoh Query: https://subtle-torus-235508.web.app/search/unisbank/1
 
 https://subtle-torus-235508.web.app/search/implementasi%20jaringan%20komputer/1
 
+LINK SOURCE CODE FRONTEND: https://github.com/nimegami01/sistem-temu-kembali-gosearch
+
 By:
 1. Wira Dwi Susanto (NIM: 17.01.53.0053)
 2. Sativa Wahyu Priyanto (NIM: 17.01.53.0052)
